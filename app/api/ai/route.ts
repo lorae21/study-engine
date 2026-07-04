@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import Groq from "groq";
+import Groq from "groq-sdk";
 
 // -------------------------------------------------------------------
 // Server-side calls to Groq. The API key never reaches
